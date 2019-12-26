@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+#control {
+  width: fit-content;
+  margin: auto;
+}
+
+#main {
+  background: #FDB;
+}
